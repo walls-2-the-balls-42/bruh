@@ -1,0 +1,15 @@
+def gradecac():
+t= int(input('latest grade: '))
+if (t>=90):
+    print ('dayum u da best')
+elif (80<=t<90):
+   print ('v gud :)')
+elif (70<=t<80):
+  print ('iz gud')
+elif (60<=t<70):
+  print ('eh it ok')
+elif (50<=t<60):
+  print ('shawty u need to do better')
+elif (t<50):
+  print ('not v gud srry m8')
+gradecac()
