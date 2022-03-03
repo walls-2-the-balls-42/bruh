@@ -1,0 +1,7 @@
+t= int(input('enter a num: '))
+if (t==69):
+    print ('excellent')
+elif (t==420):
+   print ('ha nice')
+elif (t!=420) or (t!=69):
+    print('no')
